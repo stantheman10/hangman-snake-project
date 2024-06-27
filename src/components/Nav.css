@@ -1,0 +1,18 @@
+.nav,p{
+    text-decoration: none;
+    color: aliceblue;
+    margin: 30px;
+}
+
+.navContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:50px;
+    padding: 10%;
+    flex-direction: column;
+}
+
+h1{
+    font-size:64px;
+}

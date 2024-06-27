@@ -1,0 +1,22 @@
+.HangmanContainer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;;
+}
+
+.float-right {
+    float: right;
+}
+
+.hud{
+    width:50%;
+    margin: auto;
+}
+
+.top{
+    width:80%;
+}
+
+h1{
+    margin:auto;
+}
